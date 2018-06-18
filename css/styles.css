@@ -1,0 +1,36 @@
+.home {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+  float: right;
+}
+.me {
+  width: 700px;
+  height:700px;
+  justify-content: center;
+
+}
+
+body{
+  background-image: url("../images/nature.jpeg");
+  color: Gainsboro ;
+}
+.about{
+  display:flex;
+  width:500px;
+  height:200px;
+  justify-content: center;
+}
+.we {
+  display:flex;
+  justify-content: center;
+}
+a {
+  color: Gainsboro;
+  height:1000px;
+  width: 1000px;
+}
