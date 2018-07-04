@@ -1,38 +1,28 @@
-.home {
-  display: flex;
-  justify-content: center;
+body{
+  background-image: url("../images/si.jpg");
+  font-family: 'Indie Flower', cursive;
+  color: gray;
+
 }
 
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /*background-color: silver;*/
+  height: 500px;
+}
 img {
   height: 200px;
   width: 300px;
   float: right;
 }
-.me {
-  width: 700px;
-  height:700px;
-  justify-content: center;
 
-}
 
-body{
-  background-image: url("../images/boy.jpg");
-  color: Gainsboro ;
-}
+
 .about-me{
-  display:flex;
-  width:500px;
-  height:200px;
-  justify-content: center;
-  font-family: 'Eagle Lake', cursive;
-}
-.e {
-  display:flex;
-  justify-content: center;
-  font-family: 'Eagle Lake', cursive;
-}
-a {
-  color: Gainsboro;
-  height:1000px;
-  width: 1000px;
+  display: flex;
+  justify-content: content;
+  font-family: 'Indie Flower', cursive;
+
 }
