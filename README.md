@@ -1,8 +1,8 @@
-#Portpholio
-##Description
+# Portpholio
+# Description
 This application is a demonstration of what i am and what am doing.
-###Setup
+### Setup
 Install address-book by cloning this repository.
 
-####Technologies Used
+#### Technologies Used
 JavaScript and jquery
